@@ -24,7 +24,7 @@
     	<h1>Elo - Openshift -> Teste de Build e Deploy</h1>
 
       <?php
-      echo "Este é um print em PHP";
+      echo "Este é um print em PHP v2";
       ?>
     </div>
       <br />
